@@ -5,7 +5,7 @@ Mosquitto for Windows comes in 64-bit and 32-bit flavours. All dependencies are
 provided in the installer.
 
 Installing
-----------
+------
 
 Running the installer will present the normal type of graphical installer. If
 you want to install without starting the graphical part of the installer, you
